@@ -1,2 +1,10 @@
 # Git 教程
-- 第一章
+
+
+Merge branch fix-B
+
+-feature-A
+-fix-B
+-feature-C
+
+我是一只小小鸟
